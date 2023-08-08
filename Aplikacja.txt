@@ -17,3 +17,5 @@ public void logowanie() {
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
+
+Przypomnij mi tu haselko gosciu 
